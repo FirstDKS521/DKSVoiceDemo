@@ -47,5 +47,5 @@
 [[AVAudioSession sharedInstance] setActive:YES error:nil];
 ```
 
-详细的一些问题参考：![链接1](http://www.jianshu.com/p/c06133d576e4)
-![链接2](http://www.jianshu.com/p/9662a04b24ae)
+详细的一些问题参考：[链接1](http://www.jianshu.com/p/c06133d576e4)
+[链接2](http://www.jianshu.com/p/9662a04b24ae)
