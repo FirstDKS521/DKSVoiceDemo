@@ -27,7 +27,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     
-    [SYVoicePush shareVoice]; //讯飞
+    [[SYVoicePush shareVoice] initVoicePush]; //讯飞
     /* //后台语音播报
     [[AVAudioSession sharedInstance] setCategory: AVAudioSessionCategoryPlayback error: nil];
     [[AVAudioSession sharedInstance] setActive:YES error:nil];
